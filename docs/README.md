@@ -3,9 +3,9 @@
 
 **Arthur Candian, email do aluno 1**
 
-**Arthur Henrique Santana Pedra, email do aluno 6**
+**Arthur Henrique Santana Pedra, arthurpedrasantana@gmail.com**
 
-**Gabriel Chagas Lage, email do aluno 2**
+**Gabriel Chagas Lage, gabrielclage04@gmail.com**
 
 **Luiz Felipe Gontijo Soares, lfgsoares05@gmail.com**
 
@@ -13,7 +13,7 @@
 
 **Thiago Cury Freire, email do aluno 5**
 
-**Vinicius Paranho Ribeiro, email do aluno 6**
+**Vinicius Paranho Ribeiro, viniciusparanho@gmail.com**
 
 ---
 
