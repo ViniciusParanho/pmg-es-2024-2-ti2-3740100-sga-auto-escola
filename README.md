@@ -1,5 +1,9 @@
 # SGA - Sistema de gerenciamento de auto-escola
 
+<div align="center">
+<img src="docs/images/Logo-V1.png" width=300px/>
+</div>
+
 Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 ## Integrantes
