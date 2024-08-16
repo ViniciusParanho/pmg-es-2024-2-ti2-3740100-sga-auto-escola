@@ -1,7 +1,7 @@
 # SGA - Sistema de gerenciamento de auto-escola
 
 
-**Arthur Candian, email do aluno 1**
+**Arthur Candian, acandian15@gmail.com**
 
 **Arthur Henrique Santana Pedra, arthurpedrasantana@gmail.com**
 
