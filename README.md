@@ -4,7 +4,8 @@
 <img src="docs/images/Logo-V1.png" width=300px/>
 </div>
 
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
+O objetivo do SGA - Sistema de gerenciamento de auto-escola é facilitar os processos envolvidos na gestão de uma auto-escola, com o foco na comunicação entre empresa, professor e aluno. A ideia do grupo surgiu de observações dos próprios integrantes, uma vez que todos realizaram a obtenção da CNH no último ano e notaram o quão rudimentar e confuso era o ambiente da auto-escola, visto que a comunicação era falha, as aulas eram frequentemente remarcadas e muitas vezes os alunos tinham que entrar em contato todos os dias com os professores para marcar o horário de aula, o que é ruim para todas as partes envolvidas. 
+Portanto, o objetivo do nosso projeto é fazer com que a auto-escola consiga operar de uma maneira mais fácil e eficaz, trazendo assim benefícios para os alunos, professores e gestores da organização. 
 
 ## Integrantes
 
