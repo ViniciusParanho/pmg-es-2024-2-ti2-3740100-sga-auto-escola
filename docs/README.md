@@ -1,27 +1,29 @@
 # TITULO DO PROJETO
 
 
-**Nome completo do Aluno 1, email do aluno 1**
+**Arthur Candian, email do aluno 1**
 
-**Nome completo do Aluno 2, email do aluno 2**
+**Arthur Henrique Santana Pedra, email do aluno 6**
 
-**Nome completo do Aluno 3, email do aluno 3**
+**Gabriel Chagas Lage, email do aluno 2**
 
-**Nome completo do Aluno 4, email do aluno 4**
+**Luiz Felipe Gontijo Soares, lfgsoares05@gmail.com**
 
-**Nome completo do Aluno 5, email do aluno 5**
+**Pedro Porto Ramalho, email do aluno 4**
 
-**Nome completo do Aluno 6, email do aluno 6**
+**Thiago Cury Freire, email do aluno 5**
+
+**Vinicius Paranho Ribeiro, email do aluno 6**
 
 ---
 
 Professores:
 
-** Prof. Nome do Prof 1 **
+** Alexandre **
 
-** Prof. Nome do Prof 2 **
+** Danilo Boechat Seufitelli **
 
-** Prof. Nome do Prof 3 **
+** Michelle Hanne Soares de Andrade **
 
 ---
 
