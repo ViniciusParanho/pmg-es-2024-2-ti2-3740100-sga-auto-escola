@@ -1,4 +1,4 @@
-# TITULO DO PROJETO
+# SGA - Sistema de gerenciamento de auto-escola
 
 
 **Arthur Candian, email do aluno 1**
