@@ -58,7 +58,7 @@ para tal._
 
 ### 1.3 Objetivo geral
 
-O projeto SGA - Sistema de Gerenciamento de Auto-Escola tem como objetivo geral criar uma nova forma de administração nas auto-escolas, revolucionando a comunicação , agilizando e simplificando os processos que envolvem dois lados que precisam de uma troca, como professor e aluno. Sendo assim, os processos serão otimizados, uma vez que atos como a marcação ou cancelamento de aulas poderão ser realizados com poucos cliques, ao invés de mensagens ou telefonemas ( sistema atual), beneficiando tanto os clientes da auto-escola quanto a mesma.
+_O projeto SGA - Sistema de Gerenciamento de Auto-Escola tem como objetivo geral criar uma nova forma de administração nas auto-escolas, revolucionando a comunicação , agilizando e simplificando os processos que envolvem dois lados que precisam de uma troca, como professor e aluno. Sendo assim, os processos serão otimizados, uma vez que atos como a marcação ou cancelamento de aulas poderão ser realizados com poucos cliques, ao invés de mensagens ou telefonemas ( sistema atual), beneficiando tanto os clientes da auto-escola quanto a mesma._
 
 #### 1.3.1 Objetivos específicos
 
