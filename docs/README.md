@@ -58,8 +58,7 @@ para tal._
 
 ### 1.3 Objetivo geral
 
-_O aluno deve escrever um pequeno parágrafo ou frase com o **objetivo geral** do trabalho. 
-O objetivo deve ser bem direto, específico e definido com verbos de ação (elaborar, propor, avaliar, comparar, desenvolver, etc.). No caso específico deste projeto, o objetivo deste trabalho é desenvolver um sistema para automação de processos para um problema específico._
+O projeto SGA - Sistema de Gerenciamento de Auto-Escola tem como objetivo geral criar uma nova forma de administração nas auto-escolas, revolucionando a comunicação , agilizando e simplificando os processos que envolvem dois lados que precisam de uma troca, como professor e aluno. Sendo assim, os processos serão otimizados, uma vez que atos como a marcação ou cancelamento de aulas poderão ser realizados com poucos cliques, ao invés de mensagens ou telefonemas ( sistema atual), beneficiando tanto os clientes da auto-escola quanto a mesma.
 
 #### 1.3.1 Objetivos específicos
 
