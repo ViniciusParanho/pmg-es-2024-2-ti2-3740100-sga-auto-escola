@@ -11,7 +11,7 @@
 
 **Pedro Porto Ramalho, email do aluno 4**
 
-**Thiago Cury Freire, email do aluno 5**
+**Thiago Cury Freire, thcuryfreire@gmail.com**
 
 **Vinicius Paranho Ribeiro, viniciusparanho@gmail.com**
 
@@ -44,9 +44,7 @@ Um sistema de gestão, de aulas, fincanceiro, manuntenção e RH para auto escol
 
 ### 1.1 Contextualização
 
-_Na **contextualização**, o aluno deve dizer do que se trata o trabalho, em que área ou contexto se insere.
-A **contextualização** deve ser desenvolvida de algo mais genérico para algo mais específico. 
-A citação de pesquisas quantitativas é bem aceita aqui (corretamente referenciadas)._
+_Este trabalho se insere no contexto da gestão de atividades em autoescolas, focando na organização das aulas práticas de direção. Nossa proposta é desenvolver um gestor de aulas, uma ferramenta digital que funciona como uma agenda, facilitando tanto para os instrutores quanto para os alunos na hora de agendar as aulas de forma mais simples e eficiente. Pesquisas indicam que muitas pessoas enfrentam dificuldades ao tentar reagendar suas aulas quando ocorrem imprevistos, o que pode prejudicar o andamento do aprendizado. Em uma pesquisa com nossos amigos, a maioria relatou esses problemas, evidenciando a necessidade de uma solução que torne o processo de agendamento mais ágil e acessível nas autoescolas._
 
 ### 1.2 Problema
 
