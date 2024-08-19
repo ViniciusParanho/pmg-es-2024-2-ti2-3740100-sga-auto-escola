@@ -71,7 +71,13 @@ desenvolvimento do seu trabalho e, caso deseje, destaque alguma contribuição d
 
 ## 2. Participantes do processo
 
-_Apresente aqui os perfis dos usuários-chave do sistema. Diversas são as informações que podem ser relevantes para a definição dos perfis dos usuários, tais como idade, gênero, aspectos culturais, nível de educação, entre outros. A pesquisa de mercado pode ser uma ferramenta poderosa para se identificar e caracterizar os perfis de usuários. Apresente claramente o papel a ser desempenhado por cada usuário._
+Usuários-chaves do sistemas:
+
+Administrator da auto-escola: Normalmente o próprietário ou gerente, que tem como obirgação administrar o auto escola do processo inicial ao final. Lidando com financeiro, rh, manuntenção do carro, dentre outros. 
+
+Instrutor: Pessoa contratada pela auto-escola, que tem que administratar seus horários. Tem uma permissão para ser instrutor pelo detran. 
+
+Aluno: Normalmente pessoas de perfils mais jovens, que devem agendar aulas, ou contratar o serviço das mesmas. 
 
 ## 3. Modelagem do processo de negócio
 
