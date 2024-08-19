@@ -48,10 +48,7 @@ _Este trabalho se insere no contexto da gestão de atividades em autoescolas, fo
 
 ### 1.2 Problema
 
-_Em seguida o aluno deve caminhar a contextualização para descrever o **problema** que o trabalho trata. 
-O **problema** pode ser algo vivido em uma empresa específica. Neste caso, o aluno deve rapidamente apresentar 
-o cenário de problema da empresa. A empresa só deve ser citada explicitamente se o aluno tiver autorização 
-para tal._
+_Nosso projeto visa solucionar um problema comum que todos do nosso grupo já enfrentaram ao longo do processo de habilitação em autoescolas. As autoescolas tradicionais frequentemente apresentam dificuldades na organização e agendamento de aulas, causando frustração para os alunos, que muitas vezes têm que lidar com processos confusos, horários sobrecarregados e comunicação ineficiente. Essas dificuldades, que todos nós já vivenciamos ao tentar obter a habilitação, são um obstáculo para o aprendizado e para a experiência como um todo. Nosso sistema de gerenciamento de autoescola busca simplificar e automatizar essas etapas, facilitando a vida dos alunos e melhorando a eficiência das autoescolas._
 
 ### 1.3 Objetivo geral
 
