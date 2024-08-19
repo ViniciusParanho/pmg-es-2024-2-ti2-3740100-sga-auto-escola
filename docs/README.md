@@ -40,7 +40,7 @@ O objetivo do SGA - Sistema de gerenciamento de auto-escola é facilitar os proc
 
 ## 1. Introdução
 
-_Apresente uma frase introdutória definindo o que será apresentado._
+Um sistema de gestão, de aulas, fincanceiro, manuntenção e RH para auto escola.
 
 ### 1.1 Contextualização
 
