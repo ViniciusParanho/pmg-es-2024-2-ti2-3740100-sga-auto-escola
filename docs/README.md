@@ -19,11 +19,11 @@
 
 Professores:
 
-** Alexandre **
+**Alexandre**
 
-** Danilo Boechat Seufitelli **
+**Danilo Boechat Seufitelli**
 
-** Michelle Hanne Soares de Andrade **
+**Michelle Hanne Soares de Andrade**
 
 ---
 
@@ -33,8 +33,7 @@ _Instituto de Informática e Ciências Exatas – Pontifícia Universidade Cató
 
 ---
 
-_**Resumo**. Escrever aqui o resumo. O resumo deve contextualizar rapidamente o trabalho, descrever seu objetivo e, ao final, 
-mostrar algum resultado relevante do trabalho (até 10 linhas)._
+O objetivo do SGA - Sistema de gerenciamento de auto-escola é facilitar os processos envolvidos na gestão de uma auto-escola, com o foco na comunicação entre empresa, professor e aluno. A ideia do grupo surgiu de observações dos próprios integrantes, uma vez que todos realizaram a obtenção da CNH no último ano e notaram o quão rudimentar e confuso era o ambiente da auto-escola, visto que a comunicação era falha, as aulas eram frequentemente remarcadas e muitas vezes os alunos tinham que entrar em contato todos os dias com os professores para marcar o horário de aula, o que é ruim para todas as partes envolvidas. Portanto, o objetivo do nosso projeto é fazer com que a auto-escola consiga operar de uma maneira mais fácil e eficaz, trazendo assim benefícios para os alunos, os professores e os gestores da organização.
 
 ---
 
